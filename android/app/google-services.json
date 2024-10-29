@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496800168067",
+    "project_id": "qrcodegets",
+    "storage_bucket": "qrcodegets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496800168067:android:c8b411e7f2567a447703b6",
+        "android_client_info": {
+          "package_name": "com.firman.qr_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxPc3HY1ENeyr5ZloxR5Xv7EOVB-C_NEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
